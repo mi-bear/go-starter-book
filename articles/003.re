@@ -51,7 +51,7 @@ Google Cloud Functionsには、HTTPSでアクセスすることで実行でき�
 
 //footnote[このコードラボ.3][@<href>{https://womenwhogotokyo.github.io/codelab/tutorial-concurrency-go/}]
 
-次の流れでコードラボを進めていきます。。
+次の流れでコードラボを進めていきます。
 
  1. Goで書かれたサンプルコードを取得・確認する。
  2. サンプルコードを動かしてみる。
@@ -62,6 +62,15 @@ Google Cloud Functionsには、HTTPSでアクセスすることで実行でき�
 
 ===[column] 並行処理と並列処理
 
-TODO: 違いを書きたい...
+並行処理とは、多くのこと独立して実行することで、並列処理は、一度に多くのことを同時に実行することです。
+
+TODO: Gopherが食う・寝る・遊ぶを並行でやってるすがた。
+
+TODO: Gopherが遊ぶを並列（同時）にやっているすがた。
+
+
+The Go Blog - Concurrency is not parallelism@<fn>{Concurrency is not parallelism}でも詳しく解説されています。
+
+//footnote[Concurrency is not parallelism][@<href>{https://blog.golang.org/concurrency-is-not-parallelism}]
 
 ===[/column]
