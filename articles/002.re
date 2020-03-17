@@ -139,7 +139,7 @@ set -x PATH /usr/local/go/bin $PATH
 //image[winenvironment][Windows環境変数]
 ===[/column]
 
-=== Goの実行
+=== Goのバージョンを見る
 Goのインストールとパスの設定ができたら、Goを動かすことができるか確認しましょう。
 
 次のコマンドは、macOSで実行したものです。
