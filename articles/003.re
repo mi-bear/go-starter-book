@@ -96,3 +96,17 @@ github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINE
 $ ./sample
 変換に失敗: strconv.Atoi: parsing "Gopher": invalid syntax
 //}
+
+===[column] 豊富なGoのツール群
+豊富なGoのツールを利用すると、効率よくGoのプログラムを書くことができます。
+
+ : gofmt
+  フォーマッタ。
+ : goimports
+  フォーマッタ。@<code>{import}部分のパッケージの追加や削除を自動で行います。
+ : golint
+  Goのコーディングスタイルを提案してくれます。
+ : go vet
+  Goの静的解析ツール。あやしいコードをみつけてくれます。
+
+===[/column]

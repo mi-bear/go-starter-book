@@ -102,6 +102,8 @@ set -x PATH $HOME/go/bin $PATH
 //}
 ===[/column]
 
+//pagebreak
+
 ==== インストーラーからインストールする
 GoのDownloadsページ@<fn>{Downloadsページ}から、macOS、Linux、Windows用のインストーラーをダウンロードすることができます。
 
@@ -136,7 +138,7 @@ set -x PATH /usr/local/go/bin $PATH
 ===[column] PATHをWindowsの環境変数に追加する
 @<code>{C:\Go\bin}を環境変数のPATHに追加します。
 
-//image[winenvironment][Windows環境変数]
+//image[winenvironment][Windows環境変数][width=0.5\maxwidth]
 ===[/column]
 
 === Goのバージョンを見る
