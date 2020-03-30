@@ -26,7 +26,7 @@ Goが選ばれる理由、Goらしさ（Easy to learn, Efficient, Powerful）に
 //footnote[GoUsers][@<href>{https://github.com/golang/go/wiki/GoUsers}]
 //footnote[Go.dev][@<href>{https://go.dev}]
 //footnote[Go Code Review Comments][@<href>{https://github.com/golang/go/wiki/CodeReviewComments}]
-//footnote[日本語訳][@<href>{https://qiita.com/knsh14/items/8b73b31822c109d4c497}]
+//footnote[日本語訳][@<href>{https://knsh14.github.io/translations/go-codereview-comments/}]
 
 //pagebreak
 
